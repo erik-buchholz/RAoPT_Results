@@ -1,0 +1,14 @@
+# Case 20
+ID = 20
+Dataset Train = TDRIVE
+Dataset Test = GEOLIFE
+Protection Train = CNOISE
+Protection Test = CNOISE
+Epsilon Train = 10.0
+Epsilon Test = 10.0
+M Train = 16500.0
+M Test = 16500.0
+Done = True
+Todo = False
+Number of Splits = 5
+Seed for KFold/Split = 7

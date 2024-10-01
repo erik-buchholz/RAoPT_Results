@@ -1,0 +1,14 @@
+# Case 32
+ID = 32
+Dataset Train = TDRIVE
+Dataset Test = TDRIVE
+Protection Train = SDD
+Protection Test = CNOISE
+Epsilon Train = 1.0
+Epsilon Test = 1.0
+M Train = 16500.0
+M Test = 16500.0
+Done = True
+Todo = False
+Number of Splits = 5
+Seed for KFold/Split = 7
